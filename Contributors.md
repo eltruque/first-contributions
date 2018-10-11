@@ -291,6 +291,7 @@
 - [Prince]
 - [Sloknatos was here]
 - [Niharika Tammara]
+- [eltruque](https://github.com/eltruque)
 - [Ohmny Romero](https://github.com/ohmnoms)
 - [Akshat](https://github.com/akshat14714)
 - [Tina Ngo]
